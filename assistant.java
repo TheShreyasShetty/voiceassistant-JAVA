@@ -9,7 +9,7 @@ import edu.cmu.sphinx.api.SpeechResult;
 public class VoiceAssistant {
 
 	@SuppressWarnings("deprecation")
-	public static void main(String[] st) {
+	public static void main(String[] args) {
 		
 		Configuration config = new Configuration();
 // Calling the resources of the Sphinx libraries
